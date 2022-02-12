@@ -1,7 +1,7 @@
 # Pychain-Ledger
 
 ###### Simple overview of use/purpose.
-This keeps of who sent/recieved money over the block chain and records the transaction
+This keeps track of who sent/recieved money over the block chain and records the transaction
 ## Getting Started
 
 ### Dependencies
